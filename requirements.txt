@@ -41,4 +41,6 @@ openai
 tiktoken
 PyPDF2
 cassandra-driver
+
 gradio
+ddgs
